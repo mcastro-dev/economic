@@ -1,0 +1,26 @@
+<resources>
+    <string name="invoice_details_invoice_load_failure">Failed loading invoice</string>
+    <string name="invoice_details_label_customer">Customer</string>
+    <string name="invoice_details_label_total">Total</string>
+    <string name="invoice_details_label_date">Date</string>
+    <string name="invoice_details_title">Invoice Details</string>
+    <string name="invoice_list_create_button_description">Create invoice</string>
+    <string name="invoice_list_empty_cta">No invoices found.\nTouch to create an invoice.</string>
+    <string name="invoice_list_title">Invoices</string>
+    <string name="invoice_save_create_mode_title">New Invoice</string>
+    <string name="invoice_save_edit_mode_title">Edit Invoice</string>
+    <string name="invoice_save_invoice_load_failure">Failed loading invoice</string>
+    <string name="invoice_save_button_description">Save invoice</string>
+    <string name="invoice_save_toast_success">Invoice saved successfully</string>
+    <string name="invoice_save_toast_failure">Error!\nInvoice could not be saved</string>
+    <string name="invoice_form_label_customer">Customer</string>
+    <string name="invoice_form_label_total">Total</string>
+    <string name="invoice_form_label_date">Date</string>
+    <string name="invoice_form_label_date_hint">YYYY-MM-DD</string>
+    <string name="invoice_form_label_photo">Photo</string>
+    <string name="invoice_form_label_photo_description">Invoice photo</string>
+    <string name="invoice_form_date_field_error">Expected: valid date with format \'YYYY-MM-DD\'</string>
+    <string name="invoice_form_customer_field_error">Expected: not blank</string>
+    <string name="invoice_form_total_field_error">Expected: numbers only</string>
+    <string name="invoice_form_photo_field_error">Expected: valid photo</string>
+</resources>

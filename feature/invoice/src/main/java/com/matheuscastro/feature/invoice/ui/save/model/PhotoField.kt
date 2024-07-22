@@ -10,7 +10,6 @@ data class PhotoField(
 ) : Field<String>(content, validationResult) {
 
     override fun validate(): PhotoField {
-        // TODO mat: validate if file is valid
         return PhotoField(
             content = content,
             validationResult = if (content.isNotBlank()) {

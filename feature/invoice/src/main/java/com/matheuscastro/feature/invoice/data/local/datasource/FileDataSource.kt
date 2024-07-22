@@ -1,4 +1,4 @@
-package com.matheuscastro.feature.invoice.data.local
+package com.matheuscastro.feature.invoice.data.local.datasource
 
 import android.content.Context
 import android.net.Uri

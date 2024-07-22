@@ -1,7 +1,7 @@
 package com.matheuscastro.feature.invoice.di
 
-import com.matheuscastro.feature.invoice.data.local.FileDataSource
-import com.matheuscastro.feature.invoice.data.local.FileDataSourceImpl
+import com.matheuscastro.feature.invoice.data.local.datasource.FileDataSource
+import com.matheuscastro.feature.invoice.data.local.datasource.FileDataSourceImpl
 import com.matheuscastro.feature.invoice.data.repository.InvoiceFilterRepositoryImpl
 import com.matheuscastro.feature.invoice.data.repository.InvoiceRepositoryImpl
 import com.matheuscastro.feature.invoice.domain.interactor.InvoiceFilterInteractor

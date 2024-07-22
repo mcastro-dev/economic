@@ -8,8 +8,8 @@ import androidx.paging.PagingData
 import androidx.paging.map
 import com.matheuscastro.core.data.Data
 import com.matheuscastro.core.domain.model.UId
-import com.matheuscastro.database.dao.InvoiceDao
 import com.matheuscastro.feature.invoice.data.local.FileDataSource
+import com.matheuscastro.feature.invoice.data.local.datasource.InvoiceDao
 import com.matheuscastro.feature.invoice.data.mapper.toDomain
 import com.matheuscastro.feature.invoice.data.mapper.toEntity
 import com.matheuscastro.feature.invoice.domain.model.Invoice

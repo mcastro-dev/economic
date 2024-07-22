@@ -4,7 +4,7 @@ import android.net.Uri
 import com.matheuscastro.core.domain.model.Currency
 import com.matheuscastro.core.domain.model.Money
 import com.matheuscastro.core.domain.model.UId
-import com.matheuscastro.database.entity.invoice.InvoiceEntity
+import com.matheuscastro.feature.invoice.data.local.model.InvoiceEntity
 import com.matheuscastro.feature.invoice.domain.model.Invoice
 import java.time.LocalDate
 

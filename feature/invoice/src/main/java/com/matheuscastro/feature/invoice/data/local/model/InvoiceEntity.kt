@@ -1,4 +1,4 @@
-package com.matheuscastro.database.entity.invoice
+package com.matheuscastro.feature.invoice.data.local.model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

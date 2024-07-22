@@ -3,7 +3,7 @@ package com.matheuscastro.database.di
 import android.content.Context
 import androidx.room.Room
 import com.matheuscastro.database.AppDatabase
-import com.matheuscastro.database.dao.InvoiceDao
+import com.matheuscastro.feature.invoice.data.local.datasource.InvoiceDao
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

@@ -1,10 +1,10 @@
-package com.matheuscastro.database.dao
+package com.matheuscastro.feature.invoice.data.local.datasource
 
 import androidx.paging.PagingSource
 import androidx.room.Dao
 import androidx.room.Query
 import androidx.room.Upsert
-import com.matheuscastro.database.entity.invoice.InvoiceEntity
+import com.matheuscastro.feature.invoice.data.local.model.InvoiceEntity
 import kotlinx.coroutines.flow.Flow
 
 @Dao
